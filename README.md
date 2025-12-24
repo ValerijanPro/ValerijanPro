@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Valerijan and I am a Computer Vision / ML engineer with a strong research background (PhD) working on building robust Machine Learning systems and non-trivial vision problems under real-world constraints.
+My name is Valerijan and I am a Computer Vision / ML engineer with a strong research background (PhD) working on building robust Machine Learning systems and non-trivial vision problems under real-world constraints.
 
 **Currently:** Dataset Ownership Verification and Poisoning Attacks + PhD track (AI robustness / security interests). Research collaboration with Ecole Polytechnique, Paris;
 
