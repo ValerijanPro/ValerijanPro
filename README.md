@@ -5,9 +5,8 @@ My name is Valerijan and I am a computer vision / ML engineer with a strong rese
 My interests lie at the intersection of **computer vision, visual attention (eye-tracking), representation learning, and robustness/security of ML systems**.
 
 **Currently:**
-- PhD track in AI (robustness & security) 
-- Research collaboration with École Polytechnique (Paris)  
-- Working on dataset ownership verification and poisoning attacks  
+- Research collaboration with École Polytechnique (Paris) - dataset ownership verification and poisoning attacks  
+- PhD track in AI at the Palace of Science, Belgrade
 
 ## I have worked on:
 - visual attention & eye-tracking -> Predicting image memorability and recognition outcomes from fixation patterns. 
