@@ -11,11 +11,11 @@ My interests lie at the intersection of **computer vision, visual attention (eye
 
 ## I have worked on:
 - visual attention & eye-tracking -> Predicting image memorability and recognition outcomes from fixation patterns. 
-- ** Repo: (https://github.com/ValerijanPro/ImageMemorabilityPredictionML)
+- ** Repo: ([https://github.com/ValerijanPro/ImageMemorabilityPredictionML](https://github.com/ValerijanPro/eye-tracking-image-memorability))
 - robust satellite image segmentation -> Adapting SAM-2 for Sentinel-2 and PlanetScope imagery (Serbia region).  
-- ** Repo: (https://github.com/ValerijanPro/RemoteSensingImageSegmentationSAM)
+- ** Repo: ([https://github.com/ValerijanPro/RemoteSensingImageSegmentationSAM](https://github.com/ValerijanPro/satellite-image-segmentation-advanced))
 - 3D vision concepts (AR 3D Unity, medical scans) -> Unity AR visualization, 3D medical image classification (NRRD)
-- ** Repos: (https://github.com/ValerijanPro/Unity3DProject) (https://github.com/ValerijanPro/3DnrrdMedicalImagesClassification)
+- ** Repos: ([https://github.com/ValerijanPro/Unity3DProject](https://github.com/ValerijanPro/unity-AR-3D)) ([https://github.com/ValerijanPro/3DnrrdMedicalImagesClassification](https://github.com/ValerijanPro/medical-3d-nrrd-classifcation))
 - Panorama reconstruction (OpenCV, C++)
 
 ## Tech
